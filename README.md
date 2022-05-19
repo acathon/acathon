@@ -1,4 +1,4 @@
-### 👋 Hi there  folks developers and engineers
+### 👋 Hi folks !
 
 <!-- 🔭 I’m currently working on -->
 <!-- 🌱 I’m currently learning ... -->
@@ -6,5 +6,5 @@
 <!-- 🤔 I’m looking for help with ... -->
 <!-- 💬 Ask me about ... -->
 - 📫 How to reach me: mustapha.essouri@gmail.com
-- 😄 Pronouns: Señor
+<!-- 😄 Pronouns: Señor -->
 <!-- ⚡ Fun fact: ... -->
